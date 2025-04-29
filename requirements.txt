@@ -1,0 +1,2 @@
+qiskit[all]~=2.0.0
+qiskit-ibm-runtime~=0.37.0
